@@ -33,7 +33,7 @@ Frontend Mentor Challenge - Build a responsive stats preview card component.
 
 ### What I learned
 
-Create an overlay on image with the mix-blend-mode property.
+Create an overlay on the image with the mix-blend-mode property.
 
 ```css
 .img {
